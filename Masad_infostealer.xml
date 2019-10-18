@@ -1,0 +1,11 @@
+<?xml>
+<>XWALHERXX : S1
+
+     $n1 = "gpupdate.exe" nocase ascii wide
+     $n2 = "ws2_32.exe" nocase ascii wide
+     $n3 = "soranominer.exe" nocase ascii wide
+     $n4 = "https://masadsasad.moy.su/base.txt"  nocase ascii wide
+     $n5 = "https://zuuse.000webhostapp.com/mi.exe" nocase ascii wide
+     
+     $ip1 = "37.230.210.84" wide ascii 
+
